@@ -7,8 +7,7 @@ const MyForm = () => {
       <a href="#" className="text-gray-800 font-semibold hover:text-blue-600">
         Home
       </a>
-
-      {/* Dropdown for Home */}
+    {/* Dropdown for Home */}
       <div className="absolute left-0 mt-2 hidden group-hover:flex bg-white shadow-lg rounded-lg p-6 w-[600px] space-x-10 z-20">
         {/* General Demos */}
         <div>

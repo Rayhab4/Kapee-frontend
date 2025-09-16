@@ -1,0 +1,7 @@
+
+    <div>
+     <TopBar/>
+     <Header/>
+     <Navbar/>
+     <Category/>
+    </div>
